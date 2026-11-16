@@ -161,5 +161,5 @@ freshProject.get('/products/:rating', (req, res) => {
 })
   
  freshProject.listen(4000, () => {
-  console.log('Server is running on port 4000')
+  console.log('Server is curently running on the port 4000')
 })
